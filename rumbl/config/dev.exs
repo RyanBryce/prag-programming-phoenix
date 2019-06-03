@@ -68,7 +68,7 @@ config :phoenix, :plug_init_mode, :runtime
 
 # Configure your database
 config :rumbl, Rumbl.Repo,
-  username: "postgres",
+  username: "ryanbryce",
   password: "postgres",
   database: "rumbl_dev",
   hostname: "localhost",
